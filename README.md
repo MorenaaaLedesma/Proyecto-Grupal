@@ -1,2 +1,2 @@
 # Proyecto-Grupal1
-Proyecto echo con Juan Pablo Dominguez
+Proyecto echoo con Juan Pablo Dominguez
