@@ -1,2 +1,2 @@
-# Proyecto-Grupal1
+# Adivinaelnumero
 Proyecto echoo con Juan Pablo Dominguez
