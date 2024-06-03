@@ -1,5 +1,4 @@
 # Adivinaelnumero
 Integrantes:
 
-+Morena Ledesma
-+Juan Pablo Dominguez
+Morena Ledesma, Juan Pablo Dominguez
