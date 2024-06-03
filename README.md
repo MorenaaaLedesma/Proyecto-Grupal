@@ -1,2 +1,4 @@
 # Adivinaelnumero
-Proyecto echoo con Juan Pablo Dominguez
+Integrantes:
++Morena Ledesma
++Juan Pablo Dominguez
